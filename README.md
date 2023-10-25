@@ -1,10 +1,8 @@
 # TetTCR-SeqHD_V2
 Converts raw sequencing data of pMHC tetramer barcodes to a count matrix
+Runs on data generated from BD Rhapsody Enhanced Bead kit
 
-THIS IS THE INSTRUCTION FOR RUNNING THE TETRAMER FOR TETTCR-HD PIPELINE #####
-Runs on data generated from BD Rhapsody Enhanced Bead kit ####
-
-# CHANGE FILE NAME ACCORDINGLY #
+# CHANGE FILE NAME ACCORDINGLY
 # UPDATED: 6/21/22 by Michael Malone
 
 1.MAKE SURE THE PEPTIDE REFERENCE CSV FILE FORMAT IS CORRECT (and called peptide.csv).
