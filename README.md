@@ -19,7 +19,7 @@ Remember to send the stdout to log file, otherwise the last step will be interup
 
 Note: you may need to change some of the variables in src/tet.sh (particularly the conda environments)
       you may also need to edit some of the variables in run.sh, depending on needs
-      specifically update the conda source on line XXX of run.sh
+      specifically update the conda source path on line 6 of run.sh
 
 Input files:
   1. Rhapsody_dbec.csv = *_DBEC_MolsPerCell.csv (output from SBG)
