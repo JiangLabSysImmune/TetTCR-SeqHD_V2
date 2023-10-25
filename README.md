@@ -3,6 +3,7 @@ Converts raw sequencing data of pMHC tetramer barcodes to a count matrix
 Runs on data generated from BD Rhapsody Enhanced Bead kit (Change file names accordingly)
 UPDATED: 6/21/22 by Michael Malone
 
+# USAGE
 1.MAKE SURE THE PEPTIDE REFERENCE CSV FILE FORMAT IS CORRECT (and called peptide.csv).
 Example:
 name,Ntsequence,AAsequence,gene,category
@@ -24,9 +25,6 @@ Input files:
   2. peptide.csv = peptide reference file (for each experiment)
   3. tet_R1.fastq.gz & tet_R2.fastq.gz = raw reads from tetramer libraries
 
-# It is recommended that you run your data through more stringent and educated single cell workflows.
-# Most analyses above should only be used preliminarily
-
 # Dependencies:
   1. umi_tools
   2. seqtk
@@ -38,5 +36,3 @@ Input files:
        - base w/ pulp, pandas, numpy installed
        - $conda_env w/ samtools and javac installed
   7. umis
-
-#END
