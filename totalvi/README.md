@@ -1,4 +1,4 @@
-# Totalvi model with TetTCR-SeqHD
+# totalVI model with TetTCR-SeqHD
 
 Use these scripts to merge TetTCR-SeqHD experiments (output from seurat.R) and use totalvi for batch-correction, protein expression background correction, integrating proteinand mRNA expression data, normalization, etc.
 For more information on totalvi, including installation and usage, visit: https://docs.scvi-tools.org/en/stable/user_guide/models/totalvi.html.
