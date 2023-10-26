@@ -7,9 +7,9 @@ The `seurat.R` script is an example of a single Rhapsody experiment that can be 
 # Dependecies:
 Installation of the following R packages is required:<br>
 
-Seurat (V3)<br>
+Seurat V3 (https://satijalab.org/seurat/)<br>
+sctransform (https://satijalab.org/seurat/articles/sctransform_vignette.html)<br>
 ggplot2<br>
-sctransform<br>
 cowplot<br>
 reshape2<br>
 RColorBrewer<br>
