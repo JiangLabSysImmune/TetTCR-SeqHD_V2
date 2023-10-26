@@ -37,4 +37,8 @@ python<br>
       - `$conda_env` w/ samtools and javac installed<br>
 umis (https://pypi.org/project/umis/)<br>
 
+# Citing this work
+If you are using this work, please cite us:<br><br>
+Michael Malone, et. al. (2023), Resistance Potential of the SARS-CoV-2 Specific CD8+ T Cell Receptor Repertoire to Antigenic Drift.<br>
+
 #END
