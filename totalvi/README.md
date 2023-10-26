@@ -18,4 +18,9 @@ anndata<br>
 scanpy<br>
 scvi<br>
 
+# Citing this work
+If you are using this work, please cite us and the Streets lab's wonderful totalVI package:<br><br>
+Michael Malone, et. al. (2023), Resistance Potential of the SARS-CoV-2 Specific CD8+ T Cell Receptor Repertoire to Antigenic Drift.<br><br>
+Adam Gayoso*, Zoë Steier*, Romain Lopez, Jeffrey Regier, Kristopher L Nazor, Aaron Streets, Nir Yosef (2021), Joint probabilistic modeling of single-cell multi-omic data with totalVI, Nature Methods.<br>
+
 #END
